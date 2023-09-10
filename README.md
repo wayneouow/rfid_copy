@@ -4,4 +4,4 @@
 需使用UID空白卡寫入目標卡號
 ###
 Need:
-Arduino Nano / RC522模組 / Buzzer / LED
+Arduino Nano / RC522模組 / LCD1602 I2C / Buzzer / LED
